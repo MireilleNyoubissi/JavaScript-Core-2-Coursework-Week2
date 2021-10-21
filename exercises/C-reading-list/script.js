@@ -71,13 +71,3 @@ const books = [
 
 
 readingList(books);
-
-/*
-let imgArr = [
-      "https://cdn.vox-cdn.com/thumbor/7n7Oe4myr7B7nYI-mxuuO3b-QrY=/150x0:1770x1215/1200x800/filters:focal(150x0:1770x1215)/cdn.vox-cdn.com/uploads/chorus_image/image/35330556/3176173-1748009911-hp.jp_.0.jpg",
-      "https://m.media-amazon.com/images/I/51Dl6lXXesL.jpg",
-      "https://m.media-amazon.com/images/I/51Dl6lXXesL.jpg",
-    ];
-
-    image.src = imgArr[books.indexOf(book)];
-  */
